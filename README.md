@@ -29,7 +29,7 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
 
 Here's a noteworthy project that I've undertaken:
 
-1. **[Website Introduce Myself & Contact][https://phucnhan289.great-site.net/1/](http://phucnhan289.great-site.net/1/Ph%C3%BAc-Nh%C3%A2n.html)**:
+1. **[Website Introduce Myself & Contact](http://phucnhan289.great-site.net/1/Ph%C3%BAc-Nh%C3%A2n.html)**:
    This project originated during my high school years, marking my initial foray into Front-end development. The primary objective was to present an introduction of myself through a website. Throughout this learning journey, I delved into fundamental back-end development, exploring PHP and SQL to construct a functional contact box.
 
 ## Contact
