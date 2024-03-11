@@ -7,8 +7,12 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
 ## Skills & Experience
 
 ### Key Skills:
-- **Programming Languages:** Proficient in C++, Python, HTML, JavaScript, PHP
-- **Tools and Frameworks:** Experience with Bootstrap, jQuery
+- **Programming Languages:** Proficient in C++, Python, HTML, JavaScript, PHP, R
+  
+- **Tools and Frameworks:** Experience with Bootstrap, jQuery, PyTorch, pandas, Numpy, Matplotlib, Scikit-learn, OpenCv, and some tools for training, ML
+
+- **Database:** MySQL, Microsoft Access, MongoDB,...
+- 
 - **Additional Skills:** Strong presentation abilities, creativity, effective teamwork, ...
 
 ## Achievements
@@ -31,6 +35,16 @@ Here's a noteworthy project that I've undertaken:
 
 1. **[Website Introduce Myself & Contact](http://phucnhan289.great-site.net/1/Ph%C3%BAc-Nh%C3%A2n.html)**:
    This project originated during my high school years, marking my initial foray into Front-end development. The primary objective was to present an introduction of myself through a website. Throughout this learning journey, I delved into fundamental back-end development, exploring PHP and SQL to construct a functional contact box.
+
+2. **[Matrix tool by C++](https://github.com/nhan2892005/matrix-by-c--)**:
+   This project marks my initial foray into Matrix and C/C++ Header files. Completed within a span of three days, this endeavor showcases a plethora of advanced features tailored specifically for matrices. Now, handling complex matrices or conducting intricate matrix operations within my program is a breeze.
+
+3. **Bot Programming on Codingame**:
+   I began my journey on Codingame from the early days of my university life, diving into the world of programming challenges. Along the way, I've crafted numerous AI bots to engage in battles, yet two bots stand out with immense pride: my Tic-tac-toe bot developed in C++, and the Mad Pod Racing bot in Javascript. While I'm unable to publicly share the code, you can find them showcased on [my personal Codingame profile](https://www.codingame.com/profile/3f88b771e04c6894b7485decd4291a7e8589985),
+[my website](http://phucnhan289.great-site.net/1/Ph%C3%BAc-Nh%C3%A2n.html), or [my LinkedIn](https://www.linkedin.com/in/ph%C3%BAc-nh%C3%A2n-nguy%E1%BB%85n-778b26275/).
+
+4. **Learning Algorithms on LeetCode**
+   I perform daily algorithm challenges on LeetCode. Please explore my profile [here](https://leetcode.com/N289/).
 
 ## Contact
 
