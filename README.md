@@ -53,28 +53,68 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="4%">
   </div>
 
-## <a name="experience">🌱 Experience </a>
+## <a name="experience">👨‍💻 Experience & Project</a>
 
 ### Algorithms
 
+<div>
+  <table>
+    <tr>
+        <th>Competition</th>
+        <th>Prize</th>
+        <th>Year</th>
+    </tr>
+    <tr>
+        <td>Secondary Gift Students in Information Technology</td>
+        <td>Second</td>
+        <td>2018 - 2019</td>
+    </tr>
+    <tr>
+        <td>Computer Science for Younger</td>
+        <td>Fourth</td>
+        <td>2019</td>
+    </tr>
+    <tr>
+        <td>High School Gift Students in Information Technology</td>
+        <td>Second</td>
+        <td>2020 - 2021</td>
+    </tr>
+  </table>
+</div>
+
 ### Game Developer & AI
+
+#### Bot Programming on CodinGame
+
+- Mad Pod Race
+- Tic tac toe
+- Ghost in the Cell
+- Green Circle
+
+#### ML Models
+
+- MNIST with K-Means Cluster
 
 ### FullStack Developer
 
+- Social Media Web
+- AI SaaS Platform
+
 ### Researcher
 
-## <a name="experience">👨‍💻 Notable Projects </a>
+- Report paper for Math, Algebra, Discrete Math, Statics and Probability.
+- Member at Innovation Fablab
 
 ## <a name="contact">📫 Contact </a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phuc_Nhan_Nguyen-blue?logo=linkedin)](https://www.linkedin.com/in/phuc-nhan-nguyen/)
 
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](https://www.facebook.com/phucnhancshcmut/)
+[![Facebook](https://img.shields.io/badge/Facebook-Phúc_Nhân-blue?logo=facebook)](https://www.facebook.com/phucnhancshcmut/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/N289/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-N289-orange?logo=leetcode)](https://leetcode.com/u/N289/)
 
-[![CodinGame](https://img.shields.io/badge/CodinGame-Profile-yellow?logo=codingame)](https://www.codingame.com/profile/3f88b771e04c6894b7485decd4291a7e8589985)
+[![CodinGame](https://img.shields.io/badge/CodinGame-nhan__289-yellow?logo=codingame)](https://www.codingame.com/profile/3f88b771e04c6894b7485decd4291a7e8589985)
 
-![Email](https://img.shields.io/badge/Email-nhan.nguyen2005phuyen@hcmut.edu.vn-green?logo=gmail)
+[![Email](https://img.shields.io/badge/Email-nhan.nguyen2005phuyen@hcmut.edu.vn-green?logo=gmail)](nhan.nguyen2005phuyen@hcmut.edu.vn)
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue?logo=globe)](https://phucnhan289.great-site.net/1/Ph%C3%BAc-Nh%C3%A2n.html)
 
