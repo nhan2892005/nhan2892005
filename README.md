@@ -6,7 +6,7 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
 
 ## <a name="skill">⚙️ Tech Skills </a>
 
-- **Programming Languages:**
+### **Programming Languages:**
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" align="center" alt="C++"/ width="4%">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" align="center" alt="C"/ width="4%">
@@ -14,7 +14,7 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Python"/ width="4%">
   </div>
 
-- **Front-end Development**
+### **Front-end Development**
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" align="center" alt="React"/ width="4%">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="center" alt="HTML"/ width="4%">
@@ -23,20 +23,20 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" align="center" alt="Tailwind"/ width="4%">
   </div>
   
-- **Back-end Development**
+### **Back-end Development**
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" align="center" alt="NodeJs"/ width="4%" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" align="center" alt="Express"/ width="4%">
   </div>
 
-- **Database**
+### **Database**
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="4%">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="4%">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="4%">
   </div>
   
-- **AI/Machine Learning/Deep Learning**
+### **AI/Machine Learning/Deep Learning**
   <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="4%">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="4%">
@@ -48,7 +48,7 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
     : models in ML/DL to build or improve AI models
   </div>
 
-- **Operating Systems**
+### **Operating Systems**
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="4%">
   </div>
