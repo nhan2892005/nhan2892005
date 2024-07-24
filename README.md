@@ -264,25 +264,33 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
 --> 
 
 ---
+<a href="https://github.com/nhan2892005">
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=nhan2892005&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+</a>
 
 ---
+<a href="https://github.com/nhan2892005">
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhan2892005&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
- 
+</a>
+
+<a href="https://github.com/nhan2892005">
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=nhan2892005&style=for-the-badge&color=orange" alt=""/>
 </div>
+</a>
 
 ---
+<a href="https://github.com/nhan2892005">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="snake-light.svg" />
   <img src="snake.svg">
 </picture>
+</a>
 
 ## <a name="feedback">📝 Feedback and Suggestions </a>
 
