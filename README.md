@@ -277,6 +277,13 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
   <img src="https://komarev.com/ghpvc/?username=nhan2892005&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ## <a name="feedback">📝 Feedback and Suggestions </a>
 
 I highly appreciate and welcome any contributions and feedback. If you have thoughts or suggestions regarding my projects, please don't hesitate to open an issue or send a pull request. Your input will play a vital role in crafting even more exceptional projects together.
