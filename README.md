@@ -279,9 +279,9 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
 
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snake-light.svg" />
+  <img src="snake.svg">
 </picture>
 
 ## <a name="feedback">📝 Feedback and Suggestions </a>
