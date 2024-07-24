@@ -108,6 +108,7 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
 
 ## <a name="cerf">🏅License & Certification📜</a>
 🧠 [Artificial Intelligence - Gold Level](https://www.codingame.com/certification/ynuRgEvfKb6dEnoGjG6xzg)
+
 📈 [Algorithms - Silver level](https://www.codingame.com/certification/IUrJAw4WdpZf89_ODIOlVA)
 
 ## <a name="contact">📫 Contact </a>
