@@ -12,6 +12,7 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" align="center" alt="C"/ width="4%">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" alt="JavaScript"/ width="4%">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Python"/ width="4%">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" align="center" alt="Python"/ width="4%">
   </div>
 
 ### **Front-end Development**
@@ -84,26 +85,30 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
 
 ### Game Developer & AI
 
-#### Bot Programming on CodinGame
+#### Bot Programming on [![CodinGame](https://img.shields.io/badge/CodinGame-nhan__289-yellow?logo=codingame)](https://www.codingame.com/profile/3f88b771e04c6894b7485decd4291a7e8589985)
 
-- Mad Pod Race
+- 🚗 [Mad Pod Race](https://github.com/nhan2892005/GameBot-CodinGame/tree/main/MadPodRace)
 - Tic tac toe
 - Ghost in the Cell
 - Green Circle
 
 #### ML Models
 
-- MNIST with K-Means Cluster
+- [MNIST with K-Means Cluster](https://github.com/nhan2892005/MachineLearning/blob/main/KmeansMnist.ipynb)
 
 ### FullStack Developer
 
-- Social Media Web
+- [Social Media Web](https://github.com/nhan2892005/FrontEnd-MERN_FullStackProject)
 - AI SaaS Platform
 
 ### Researcher
 
-- Report paper for Math, Algebra, Discrete Math, Statics and Probability.
-- Member at Innovation Fablab
+- Paper research for Math, Algebra, Discrete Math, Statics and Probability (See more in my repo)
+- [Member at Innovation Fablab](https://www.facebook.com/InnovationFablab)
+
+## <a name="cerf">🏅License & Certification📜</a>
+🧠 [Artificial Intelligence - Gold Level](https://www.codingame.com/certification/ynuRgEvfKb6dEnoGjG6xzg)
+📈 [Algorithms - Silver level](https://www.codingame.com/certification/IUrJAw4WdpZf89_ODIOlVA)
 
 ## <a name="contact">📫 Contact </a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Phuc_Nhan_Nguyen-blue?logo=linkedin)](https://www.linkedin.com/in/phuc-nhan-nguyen/)
