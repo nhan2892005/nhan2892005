@@ -17,20 +17,20 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
         <th>TypeScript</th>
       </tr>
       <tr>
-        <td>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" align="center" alt="C++"/ width="40%">
+        <td align="center" width="20%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40%">
         </td>
-        <td>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" align="center" alt="C"/ width="40%">
+        <td align="center" width="20%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40%">
         </td>
-        <td>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" alt="JavaScript"/ width="40%">
+        <td align="center" width="20%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40%">
         </td>
-        <td>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Python"/ width="40%">
+        <td align="center" width="20%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40%">
         </td>
-        <td>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" align="center" alt="Typescript"/ width="40%">
+        <td align="center" width="20%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40%">
         </td>
       </tr>
     </table>   
@@ -38,43 +38,141 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
 
 ### **Front-end Development**
   <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" align="center" alt="React"/ width="4%">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="center" alt="HTML"/ width="4%">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="center" alt="CSS"/ width="4%">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" align="center" alt="Bootstrap"/ width="4%">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" align="center" alt="Tailwind"/ width="4%">
+    <table>
+      <tr>
+        <th>React</th>
+        <th>HTML</th>
+        <th>CSS</th>
+        <th>Bootstrap</th>
+        <th>TailwindCss</th>
+      </tr>
+      <tr>
+        <td align="center" width="20%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40%"/>
+        </td>
+        <td align="center" width="20%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40%"/>
+        </td>
+        <td align="center" width="20%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40%">
+        </td>
+        <td align="center" width="20%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40%">
+        </td>
+        <td align="center" width="20%">
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40%">
+        </td>
+      </tr>
+    </table>   
   </div>
   
 ### **Back-end Development**
   <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" align="center" alt="NodeJs"/ width="4%" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" align="center" alt="Express"/ width="4%">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="4%"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="4%"/>
+    <table>
+      <tr>
+        <th>Node.js</th>
+        <th>Git</th>
+        <th>Express</th>
+        <th>Docker</th>
+        <th>Redux</th>
+        <th>Next.js</th>
+      </tr>
+      <tr>
+        <td align="center" width="16%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40%"/>
+        </td>
+        <td align="center" width="16%">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40%">
+        </td>
+        <td align="center" width="16%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40%">
+        </td>
+        <td align="center" width="16%">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40%">
+        </td>
+        <td align="center" width="16%">
+          <img src="https://avatars.githubusercontent.com/u/13142323?s=200&v=4" width="40%">
+        </td>
+        <td align="center" width="16%">
+          <img src="https://camo.githubusercontent.com/9771a2d4a7366d3c6d4793e17104eba9e88f0aec82f7165bfe6871455c26cb2c/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" width="50%">
+        </td>
+      </tr>
+    </table>  
   </div>
+
 
 ### **Database**
   <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="4%">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="4%">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="4%">
+    <table>
+      <tr>
+        <th>MySQL</th>
+        <th>MongoDB</th>
+        <th>MS SQL Server</th>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40%"/>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40%"/>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40%">
+        </td>
+      </tr>
+    </table> 
   </div>
   
 ### **AI/Machine Learning/Deep Learning**
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="4%">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="4%">
-    : For Math, Calculus, Linear Algebra, Statics and Probability, Visualize Data, Machine Learning Models, ...
-    <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="4%">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="4%">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="4%">
-    : models in ML/DL to build or improve AI models
+    <table>
+      <tr>
+        <th>Matlab</th>
+        <th>Python</th>
+        <th>Scikit-Learn</th>
+        <th>PyTorch</th>
+        <th>Tensorflow</th>
+      </tr>
+      <tr>
+        <td align="center" width="20%">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40%"/>
+        </td>
+        <td align="center" width="20%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40%"/>
+        </td>
+        <td align="center" width="20%">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40%">
+        </td>
+        <td align="center" width="20%">
+          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40%">
+        </td>
+        <td align="center" width="20%">
+          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40%">
+        </td>
+      </tr>
+    </table>
   </div>
 
 ### **Operating Systems**
   <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="4%">
+    <table>
+      <tr>
+        <th>Linux</th>
+        <th>Ubuntu</th>
+        <th>Windows</th>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40%"/>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" width="40%"/>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Windows-Dark.svg" width="40%">
+        </td>
+      </tr>
+    </table>
   </div>
 
 ## <a name="experience">👨‍💻 Experience & Project</a>
@@ -129,23 +227,26 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
 - Paper research for Math, Algebra, Discrete Math, Statics and Probability (See more in my repo)
 - [Member at Innovation Fablab](https://www.facebook.com/InnovationFablab)
 
-## <a name="cerf">🏅License & Certification📜</a>
+## <a name="cerf">🏅Licenses & Certifications📜</a>
 🧠 [Artificial Intelligence - Gold Level](https://www.codingame.com/certification/ynuRgEvfKb6dEnoGjG6xzg)
 
 📈 [Algorithms - Silver level](https://www.codingame.com/certification/IUrJAw4WdpZf89_ODIOlVA)
+
+🎓 [Machine Learning](https://storage.googleapis.com/programminghub/certificate%2F1702567486647.jpg)
+
+## <a name="code">🧑‍💻 Code with me</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-N289-orange?logo=leetcode)](https://leetcode.com/u/N289/)
+
+[![CodinGame](https://img.shields.io/badge/CodinGame-nhan__289-yellow?logo=codingame)](https://www.codingame.com/profile/3f88b771e04c6894b7485decd4291a7e8589985)
 
 ## <a name="contact">📫 Contact </a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Phuc_Nhan_Nguyen-blue?logo=linkedin)](https://www.linkedin.com/in/phuc-nhan-nguyen/)
 
 [![Facebook](https://img.shields.io/badge/Facebook-Phúc_Nhân-blue?logo=facebook)](https://www.facebook.com/phucnhancshcmut/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-N289-orange?logo=leetcode)](https://leetcode.com/u/N289/)
-
-[![CodinGame](https://img.shields.io/badge/CodinGame-nhan__289-yellow?logo=codingame)](https://www.codingame.com/profile/3f88b771e04c6894b7485decd4291a7e8589985)
-
 [![Email](https://img.shields.io/badge/Email-nhan.nguyen2005phuyen@hcmut.edu.vn-green?logo=gmail)](nhan.nguyen2005phuyen@hcmut.edu.vn)
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?logo=globe)](https://phucnhan289.great-site.net/1/Ph%C3%BAc-Nh%C3%A2n.html)
+[![Website](https://img.shields.io/badge/My__Website-Visit-blue)](https://phucnhan289.great-site.net/1/Ph%C3%BAc-Nh%C3%A2n.html)
 
 ## <a name="feedback">📝 Feedback and Suggestions </a>
 
