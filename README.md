@@ -181,7 +181,7 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student. With a fervent pass
     </table>
   </div>
 
-## <a name="experience">👨‍💻 Experience & Project</a>
+## <a name="experience">👨‍💻 Experiences, Competitions & Projects</a>
 
 ### Algorithms
 
