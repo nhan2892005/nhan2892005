@@ -8,11 +8,32 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
 
 ### **Programming Languages:**
   <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" align="center" alt="C++"/ width="4%">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" align="center" alt="C"/ width="4%">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" alt="JavaScript"/ width="4%">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Python"/ width="4%">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" align="center" alt="Python"/ width="4%">
+    <table>
+      <tr>
+        <th>C++</th>
+        <th>C</th>
+        <th>JavaScript</th>
+        <th>Python</th>
+        <th>TypeScript</th>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" align="center" alt="C++"/ width="40%">
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" align="center" alt="C"/ width="40%">
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" alt="JavaScript"/ width="40%">
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="Python"/ width="40%">
+        </td>
+        <td>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" align="center" alt="Typescript"/ width="40%">
+        </td>
+      </tr>
+    </table>   
   </div>
 
 ### **Front-end Development**
@@ -28,6 +49,8 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" align="center" alt="NodeJs"/ width="4%" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" align="center" alt="Express"/ width="4%">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="4%"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="4%"/>
   </div>
 
 ### **Database**
