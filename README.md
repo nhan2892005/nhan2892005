@@ -272,7 +272,7 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student. With a fervent pass
 ---
 <a href="https://github.com/nhan2892005">
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=nhan2892005&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com/?user=nhan2892005&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 </a>
 
