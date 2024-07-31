@@ -226,7 +226,7 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student. With a fervent pass
 ### FullStack Developer
 
 - [Social Media Web](https://github.com/nhan2892005/FrontEnd-MERN_FullStackProject)
-- AI SaaS Platform
+- [AI SaaS Platform](https://github.com/nhan2892005/FullStack-AI_SaaS_Platform)
 
 ### Researcher
 
