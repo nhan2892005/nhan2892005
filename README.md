@@ -289,14 +289,6 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student. With a fervent pass
 </div>
 </a>
 
----
-<a href="https://github.com/nhan2892005">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="snake-light.svg" />
-  <img src="snake.svg">
-</picture>
-</a>
 
 ## <a name="feedback">📝 Feedback and Suggestions </a>
 
