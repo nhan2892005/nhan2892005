@@ -210,28 +210,34 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student. With a fervent pass
   </table>
 </div>
 
+### FullStack Developer
+- [Social Media Web](https://github.com/nhan2892005/FrontEnd-MERN_FullStackProject)
+- [AI SaaS Platform](https://github.com/nhan2892005/FullStack-AI_SaaS_Platform)
+
+### Big Data
+- Data Engineer: Build ETL Strategies and Method, Data Warehouse, CI/CD, Streaming Data (Kafka, Spark,...), Optimize Database
+- Data Analyst: Visualize data, SQL Strategies.
+- Data Science: Machine Learning, Deep Learning, Reinforcement Learning.
+
+### Researcher
+- Paper research for Math, Algebra, Discrete Math, Statics and Probability (See more in my repo)
+- [Member at Big Data Club](https://www.facebook.com/BDCofHCMUT)
+- [Member at Innovation Fablab](https://www.facebook.com/InnovationFablab)
+
 ### Game Developer & AI
 
 #### Bot Programming on [![CodinGame](https://img.shields.io/badge/CodinGame-nhan__289-yellow?logo=codingame)](https://www.codingame.com/profile/3f88b771e04c6894b7485decd4291a7e8589985)
 
 - 🚗 [Mad Pod Race](https://github.com/nhan2892005/GameBot-CodinGame/tree/main/MadPodRace)
-- Tic tac toe
-- Ghost in the Cell
-- Green Circle
+- [Tic tac toe](https://github.com/nhan2892005/GameBot-CodinGame/tree/main/Tic-Tac-Toe)
+- [Ghost in the Cell](https://github.com/nhan2892005/GameBot-CodinGame/tree/main/GhostInCell)
 
 #### ML Models
 
 - [MNIST with K-Means Cluster](https://github.com/nhan2892005/MachineLearning/blob/main/KmeansMnist.ipynb)
 
-### FullStack Developer
-
-- [Social Media Web](https://github.com/nhan2892005/FrontEnd-MERN_FullStackProject)
-- [AI SaaS Platform](https://github.com/nhan2892005/FullStack-AI_SaaS_Platform)
-
-### Researcher
-
-- Paper research for Math, Algebra, Discrete Math, Statics and Probability (See more in my repo)
-- [Member at Innovation Fablab](https://www.facebook.com/InnovationFablab)
+#### DL Models
+- [Librabry for ANN in C/C++]()
 
 ## <a name="cerf">🏅Licenses & Certifications📜</a>
 🧠 [Artificial Intelligence - Gold Level](https://www.codingame.com/certification/ynuRgEvfKb6dEnoGjG6xzg)
