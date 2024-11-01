@@ -285,7 +285,7 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student. With a fervent pass
 ---
 <a href="https://github.com/nhan2892005">
 <p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhan2892005&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhan2892005&layout=compact&theme=vision-friendly-dark">
 </p>
 </a>
 
