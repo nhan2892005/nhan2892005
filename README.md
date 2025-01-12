@@ -258,7 +258,7 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student. With a fervent pass
 
 [![Email](https://img.shields.io/badge/Email-nhan.nguyen2005phuyen@hcmut.edu.vn-green?logo=gmail)](nhan.nguyen2005phuyen@hcmut.edu.vn)
 
-[![Website](https://img.shields.io/badge/My__Website-Visit-blue)](https://phucnhan289.great-site.net/1/Ph%C3%BAc-Nh%C3%A2n.html)
+[![Website](https://img.shields.io/badge/My__Website-Visit-blue)](https://phucnhan.vercel/app)
 
 <!--
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
