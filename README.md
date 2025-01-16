@@ -275,6 +275,7 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student. With a fervent pass
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
 --> 
 
+
 ---
 <a href="https://github.com/nhan2892005">
 <div align="center">
