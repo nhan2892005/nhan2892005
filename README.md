@@ -290,11 +290,13 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student. With a fervent pass
 </p>
 </a>
 
+<!--
 <a href="https://github.com/nhan2892005">
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=nhan2892005&style=for-the-badge&color=orange" alt=""/>
 </div>
 </a>
+-->
 
 
 ## <a name="feedback">📝 Feedback and Suggestions </a>
