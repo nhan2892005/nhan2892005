@@ -239,6 +239,26 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student. With a fervent pass
 #### DL Models
 - [Librabry for ANN in C/C++](https://github.com/nhan2892005/DSA_and_MLP)
 
+## Publications:
+
+```bibtex
+@inproceedings{MIWAI2025SustainableHPC,
+  author    = {Thanh Hoang Le Hai and
+               Nhan Nguyen Phuc and
+               Mai Nguyen Tran Phuong and
+               Minh Bui Ngoc and
+               Nam Thoai},
+  title     = {Toward Sustainable and Cost-Efficient {HPC} Systems: A Deep Reinforcement Learning Job Scheduling Approach},
+  booktitle = {Proceedings of the 19th Multi-disciplinary International Conference on Artificial Intelligence (MIWAI 2025)},
+  year      = {2025},
+  address   = {Ho Chi Minh City, Viet Nam},
+  publisher = {Springer},
+  series    = {Lecture Notes in Artificial Intelligence},
+  doi       = {To appear, expected publication December 2025},
+  note      = {To appear, expected publication December 2025}
+}
+```
+
 ## <a name="cerf">🏅Licenses & Certifications📜</a>
 🧠 [Artificial Intelligence - Gold Level](https://www.codingame.com/certification/ynuRgEvfKb6dEnoGjG6xzg)
 
