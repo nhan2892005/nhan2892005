@@ -1,5 +1,7 @@
 # Hello, I'm Nguyen Phuc Nhan! 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Double+Ink&duration=3000&pause=1000&width=435&lines=%F0%9F%92%96+Welcome!+Thanks+for+visit+my+profile;%E2%9C%A8+Join+me+on+this+journey+of+development.)](https://github.com/nhan2892005)
+
 ## <a name="introduction">🤖 About Me </a>
 
 Greetings! I'm Nguyen Phuc Nhan, a Computer Science student. With a fervent passion for technology and a deep understanding of Computer Science, I'm consistently seeking opportunities to innovate and tackle intriguing problems.
