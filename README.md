@@ -299,26 +299,24 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student. With a fervent pass
 
 
 ---
-<a href="https://github.com/nhan2892005">
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nhan2892005&theme=dark" />
-</div>
+<a href="https://phucnhan.asia">
+<p align="center">
+  <img width="400" height="200" src="https://git-hub-streak-stats.vercel.app?user=nhan2892005&theme=dark">
+</p>
 </a>
  
 ---
-<a href="https://github.com/nhan2892005">
+<a href="https://phucnhan.asia">
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhan2892005&layout=compact&theme=vision-friendly-dark">
 </p>
 </a>
 
-<!--
 <a href="https://github.com/nhan2892005">
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=nhan2892005&style=for-the-badge&color=orange" alt=""/>
 </div>
 </a>
--->
 
 
 ## <a name="feedback">📝 Feedback and Suggestions </a>
