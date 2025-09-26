@@ -324,6 +324,12 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student. With a fervent pass
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nhan2892005/nhan2892005/output/pacman-contribution-graph.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhan2892005/nhan2892005/snake/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhan2892005/nhan2892005/snake/snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/nhan2892005/nhan2892005/snake/snake.svg">
+</picture>
+
 
 ## <a name="feedback">📝 Feedback and Suggestions </a>
 
