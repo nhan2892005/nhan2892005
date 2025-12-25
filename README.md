@@ -301,14 +301,7 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student. With a fervent pass
 ---
 <a href="https://phucnhan.asia">
 <p align="center">
-  <img width="400" height="200" src="https://git-hub-streak-stats.vercel.app?user=nhan2892005&theme=dark">
-</p>
-</a>
- 
----
-<a href="https://phucnhan.asia">
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhan2892005&layout=compact&theme=vision-friendly-dark">
+  <img width="1024" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=nhan2892005&theme=transparent&hide_border=true&locale=vi&date_format=j%2Fn%5B%2FY%5D">
 </p>
 </a>
 
